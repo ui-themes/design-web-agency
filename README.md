@@ -1,4 +1,4 @@
-# [Web Agency Design](https://www.figma.com/file/HnSCGUgOpGfT1zH6v4363D/AppSeed---WebAgency?node-id=0%3A1) `FIGMA`
+# [Web Agency Design](https://bit.ly/figma-web-agency) `FIGMA`
 
 Open-source one-page design styled with Bootstrap 5 using a simple codebase and best practices. 
 
@@ -69,4 +69,4 @@ The design should be visible in the browser.
 <br />
 
 --- 
-[Web Agency Design](https://www.figma.com/file/HnSCGUgOpGfT1zH6v4363D/AppSeed---WebAgency?node-id=0%3A1) for `FIGMA` - Open-Source project crafted by [AppSeed](https://appseed.us/).
+[Web Agency Design](https://bit.ly/figma-web-agency) for `FIGMA` - Open-Source project crafted by [AppSeed](https://appseed.us/).
