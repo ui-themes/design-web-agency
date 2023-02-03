@@ -34,29 +34,37 @@ The design should be visible in the browser.
 
 ## Top Section
 
+![Web Agency Design - Top](https://user-images.githubusercontent.com/51070104/216559974-59f35cf7-16d9-4b3d-a9ec-738c3aea7d34.jpg)
+
 <br />
 
 ## Sevices Section
+
+![Web Agency Design - Services](https://user-images.githubusercontent.com/51070104/216560013-6c732960-05d1-4f54-aa52-59cc2f92d95b.jpg)
 
 <br />
 
 ## Company Section
 
+![Web Agency Design - Company Information](https://user-images.githubusercontent.com/51070104/216560056-9f1da822-4bc5-40b0-b289-d2bad2bd7e86.jpg)
+
 <br />
 
 ## Portfolio Section
+
+![Web Agency Design - Portfolio](https://user-images.githubusercontent.com/51070104/216560091-c2145f70-a773-44b3-9615-c2d36cefb74a.jpg)
 
 <br />
 
 ## Testimonials Section
 
+![Web Agency Design - Testimonials](https://user-images.githubusercontent.com/51070104/216560146-f2c8cebe-76c1-4b74-aea6-de7c10c7150a.jpg)
+
 <br />
 
 ## Contact Section
 
-<br />
-
-## Footer Section
+![Web Agency Design - Contact](https://user-images.githubusercontent.com/51070104/216560184-68d77d08-5ce2-4557-ad78-b6c1c20e571f.jpg)
 
 <br />
 
