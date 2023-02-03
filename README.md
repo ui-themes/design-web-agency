@@ -9,13 +9,13 @@ Open-source one-page design styled with Bootstrap 5 using a simple codebase and 
 - `Bootstrap 5`
 - Gulp Tooling
 - Sections
-  - [Top Section](#top-section), styled in [scss/_header.scss](#)
-  - [Services](#sevices-section), styled in [scss/_services.scss](#)
-  - [Company Info](#company-section), styled in [scss/_info.scss](#)
-  - [Portfolio](#portfolio-section), styled in [scss/_portfolio.scss](#)
-  - [Testimonials](#testimonials-section), styled in [scss/_testimonials.scss](#)
-  - [Contact](#contact-section), styled in [scss/_contact.scss](#)
-  - [Footer](#footer-section), styled in [scss/_footer.scss](#)
+  - [Top Section](#top-section), styled in [scss/_header.scss](https://github.com/app-generator/design-web-agency/blob/main/assets/scss/web-agency/_header.scss)
+  - [Services](#sevices-section), styled in [scss/_services.scss](https://github.com/app-generator/design-web-agency/blob/main/assets/scss/web-agency/_services.scss)
+  - [Company Info](#company-section), styled in [scss/_info.scss](https://github.com/app-generator/design-web-agency/blob/main/assets/scss/web-agency/_info.scss)
+  - [Portfolio](#portfolio-section), styled in [scss/_portfolio.scss](https://github.com/app-generator/design-web-agency/blob/main/assets/scss/web-agency/_portfolio.scss)
+  - [Testimonials](#testimonials-section), styled in [scss/_testimonials.scss](https://github.com/app-generator/design-web-agency/blob/main/assets/scss/web-agency/_testimonials.scss)
+  - [Contact](#contact-section), styled in [scss/_contact.scss](https://github.com/app-generator/design-web-agency/blob/main/assets/scss/web-agency/_contact.scss)
+  - [Footer](#footer-section), styled in [scss/_footer.scss](https://github.com/app-generator/design-web-agency/blob/main/assets/scss/web-agency/_footer.scss)
 
 <br />
 
