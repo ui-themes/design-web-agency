@@ -3,9 +3,9 @@
 Web-Agency Design styled with [Bootstrap 5]() using a simple codebase and best practices 
 
 - 👉 [Figma Web Agency](https://bit.ly/figma-web-agency) - `Template DEMO`
-- 🛒 [Buy Project: $19](https://appseed.gumroad.com/l/figma-web-agency) - `payment link` via GUMROAD 
-  - `Updates`: **Lifetime**
-  - `Number of Projects`: **Unlimited**
+- 🛒 **[Buy Project - $19](https://appseed.gumroad.com/l/figma-web-agency)** - `payment link` via GUMROAD 
+  - `Updates`: Lifetime
+  - `Number of Projects`: Unlimited
 
 <br />
 
