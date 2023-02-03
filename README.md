@@ -1,11 +1,15 @@
 # [Web Agency Design](https://bit.ly/figma-web-agency) `FIGMA`
 
-Web-Agency Design styled with [Bootstrap 5]() using a simple codebase and best practices -  
+Web-Agency Design styled with [Bootstrap 5]() using a simple codebase and best practices 
 
-- 👉 [Figma Web Agency](https://bit.ly/figma-web-agency) - `View Design`
+- 👉 [Figma Web Agency](https://bit.ly/figma-web-agency) - `DEMO`
 - 🛒 [Figma Web Agency](https://appseed.gumroad.com/l/figma-web-agency) - `Buy Design`, ONLY **$19** via GUMROAD 
   - `Updates`: **Lifetime**
   - `Number of Projects`: **Unlimited**
+
+<br />
+
+![Web Agency Design - Top](https://user-images.githubusercontent.com/51070104/216561979-82713829-f81d-41b6-9c53-019fe4b6e266.jpg)
 
 <br />
 
@@ -34,12 +38,6 @@ $ gulp   # start for development
 ```
 
 The design should be visible in the browser.
-
-<br />
-
-## Top Section
-
-![Web Agency Design - Top](https://user-images.githubusercontent.com/51070104/216561979-82713829-f81d-41b6-9c53-019fe4b6e266.jpg)
 
 <br />
 
