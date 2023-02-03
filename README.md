@@ -2,7 +2,10 @@
 
 Open-source one-page design styled with Bootstrap 5 using a simple codebase and best practices. 
 
-> `FIGMA desing` can be found here: [Web Agency](https://www.figma.com/file/HnSCGUgOpGfT1zH6v4363D/AppSeed---WebAgency?node-id=0%3A1&t=M8iWf479k0DKnoSj-1)
+- 👉 [Figma Web Agency](https://bit.ly/figma-web-agency) - `View Design`
+- 🛒 [Figma Web Agency](https://appseed.gumroad.com/l/figma-web-agency) - `Buy Design`, ONLY **$19** via GUMROAD 
+  - `Updates`: **Lifetime**
+  - `Number of Projects`: **Unlimited**
 
 ## Features
 
