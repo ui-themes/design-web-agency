@@ -2,7 +2,7 @@
 
 Open-source one-page design styled with Bootstrap 5 using a simple codebase and best practices. 
 
-> FIGMA desing can be found here: [Web Agency](https://www.figma.com/file/HnSCGUgOpGfT1zH6v4363D/AppSeed---WebAgency?node-id=0%3A1&t=M8iWf479k0DKnoSj-1)
+> `FIGMA desing` can be found here: [Web Agency](https://www.figma.com/file/HnSCGUgOpGfT1zH6v4363D/AppSeed---WebAgency?node-id=0%3A1&t=M8iWf479k0DKnoSj-1)
 
 ## Features
 
