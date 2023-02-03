@@ -19,6 +19,19 @@ Open-source one-page design styled with Bootstrap 5 using a simple codebase and 
 
 <br />
 
+## How To use it
+
+> Compile the project
+
+```bash
+$ yarn   # install modules
+$ gulp   # start for development
+```
+
+The design should be visible in the browser.
+
+<br />
+
 ## Top Section
 
 <br />
